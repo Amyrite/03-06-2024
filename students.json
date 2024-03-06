@@ -1,0 +1,26 @@
+{
+    "students": [
+        {
+        "firstName": "Balmond",
+        "age" : 420,
+        "hobbies" : ["coding", "snorkeling"],
+        "pets" : [
+            {
+                "name" : "Sage",
+                "type" : "Platypus"
+            }
+        ]
+    },
+    {
+        "firstName": "Reyna",
+        "age" : 69,
+        "hobbies" : ["shouting", "punching"],
+        "pets" : [
+            {
+                "name" : "Molly",
+                "type" : "Crocodile"
+            }
+        ]
+    }
+    ]
+}

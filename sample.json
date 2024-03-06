@@ -1,0 +1,20 @@
+{
+    "firstName" : "Alice",
+    "lastName" : "Dian",
+    "age" : 5,
+    "hobbies" : ["sleeping", "eating"],
+    "pets" : [
+        {
+            "name" : "Brimstone",
+            "type" : "Elephant"
+        }, 
+        {
+            "name" : "Omen",
+            "type" : "Lizard"
+        }
+    ],
+    "favorites" : {
+        "fruit" : "Banana",
+        "game" : "Mobile Legends"
+    }
+}
